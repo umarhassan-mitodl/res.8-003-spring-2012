@@ -1,0 +1,41 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics"
+    ]
+  ],
+  "legacy_uid": "b64159ff-0983-f33b-7516-e08ef15458b5",
+  "instructors": {
+    "content": [
+      "c2c5d8b7-1a20-424a-6836-c8c50fdea9ba"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2012171f-fb07-df59-cdb3-f93599688586",
+    "website": "res-8-003-physics-demonstration-videos-spring-2012"
+  },
+  "course_title": "Physics Demonstration Videos",
+  "hide_download": true,
+  "course_description": "The Technical Services Group at MIT's Department of Physics provides technical and teaching support for undergraduate courses at MIT. These brief videos of physics demos display subtle physics concepts ranging from electromagnetism, to kinematics, to optics.\u00a0\n\n{{% resource_link \"441a4270-c7ee-47fd-88b8-28aab48fabd5\" \"Online Publication\" %}}\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.8-003",
+  "course_image_thumbnail": {
+    "content": "8077b149-aa2a-6d48-53ac-2285f480be4e",
+    "website": "res-8-003-physics-demonstration-videos-spring-2012"
+  },
+  "learning_resource_types": [],
+  "site_uid": "7f6b2af7-95ff-49a2-9009-895f88d519e1",
+  "site_short_id": "res.8-003-spring-2012",
+  "site_url_path": "courses/res-8-003-physics-demonstration-videos-spring-2012",
+  "title": "Course Metadata"
+}
